@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://typingpro.example.com/sitemap.xml
